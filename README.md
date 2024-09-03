@@ -1,2 +1,2 @@
 # DMB_PAY
-npx create-liveblocks-app@latest --init --framework react
+Web3 UI/UX for managing digital asssets
